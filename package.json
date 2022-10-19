@@ -11,8 +11,8 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/netlify": "^1.2.0",
     "@astrojs/react": "^1.2.1",
-    "@astrojs/vercel": "^2.3.0",
     "@react-three/drei": "^9.36.0",
     "@react-three/fiber": "^8.8.10",
     "@types/react": "^18.0.21",
